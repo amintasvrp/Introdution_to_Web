@@ -1,2 +1,2 @@
-# JavaScript-WEB
-Repositório dedicado ao curso em JS WEB da Alura
+# JS
+Repositório dedicado aos curso em JavaScript da Alura
