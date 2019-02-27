@@ -7,7 +7,7 @@ Repository for the Web Apps developed during the Alura's JS courses.
 3. [JavaScript: Programando na Linguagem Web (JavaScript: Programming in Web Language)](https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web)
 
 ## Getting Started
-1. Clone the repository and have fun !
+Clone the repository and have fun !
 
 ## Deployment
 This projects are ready to deploy.
