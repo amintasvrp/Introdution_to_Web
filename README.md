@@ -1,5 +1,5 @@
 # Introduction to Web
-Repository for the Web Apps developed during the Alura's JS courses.
+Repository for the Web Apps developed during the Alura's introduction to web courses.
 
 ## Courses (in Brazilian Portuguese):
 1. [HTML5 e CSS3 I: Suas primeiras páginas web (HTML5 and CSS3 I: Your first web pages)](https://cursos.alura.com.br/course/introducao-html-css)
